@@ -68,7 +68,6 @@
             <resource>
                 <directory>src/main/java</directory>
                 <includes>
-                    <include>**/*.yml</include>
                     <include>**/*.properties</include>
                     <include>**/*.xml</include>
                 </includes>
@@ -77,7 +76,6 @@
             <resource>
                 <directory>src/main/resources</directory>
                 <includes>
-                    <include>**/*.yml</include>
                     <include>**/*.properties</include>
                     <include>**/*.xml</include>
                 </includes>
